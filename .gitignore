@@ -1,2 +1,4 @@
 *.un~
+/.jekyll-cache
+/_site
 
