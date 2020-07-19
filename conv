@@ -1,3 +1,8 @@
-cat _chapters/* | sed '1,4d' | sed '$d' > time.txt
+rm -rf _chapters_temp
+cp -rf _chapters _chapters_temp
+sed -i '1,4d' _chapters_temp/*.md
+sed -i '$d' _chapters_temp/*.md
+cat _chapters_temp/*.md > time.txt
 pandoc title.txt time.txt -o time.epub
 pandoc title.txt time.txt -o time.docx
+rm -rf _chapters_temp

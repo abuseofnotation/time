@@ -109,11 +109,6 @@ References
 - The definition of identity and the example with the ship are from the treatise of human nature by David Hume.
 
 
-[Next](02)
----
-layout: default
-title: On the different systems of knowledge depending on the goals that a given individual has and on urges and emotions as the ultimate source of truth.
----
 
 On the different systems of knowledge depending on the goals that a given individual has and on urges and emotions as the ultimate source of truth.
 ===
@@ -227,11 +222,6 @@ References
 - If you want to know more about the evolutionary perspective, check Robert Sapolsky's lectures on behavioural biology.
 
 
-[Next](03) 
----
-layout: default
-title: On the concept of the world and of determinism as the "default" worldview
----
 
 On the concept of the world and of determinism as the "default" worldview
 ===
@@ -293,12 +283,6 @@ References
 
 - The book "Lost in Math" by Sabine Hossenfelder discusses the role that human  prejudices play in physics.
 
-[Next](04)
-
----
-layout: default
-title: On the ability to memorize and on the way our thinking becomes more and more dogmatic over time as a contributing factor of our notion of time. On the self-enforcement of deterministic subsystems, due to mental images and goals which are mistaken for the actual world.
----
 
 On the ability to memorize and on the way our thinking becomes more and more dogmatic over time as a contributing factor of our notion of time. On the self-enforcement of deterministic subsystems, due to mental images and goals which are mistaken for the actual world.
 ===
@@ -324,7 +308,7 @@ the "realness" of a concept is not just a matter of whether something exist or d
 TBC
 ---
 
-[Next](09)
+
 Appendix
 ===
 
@@ -426,4 +410,6 @@ On Euclidian geometry
 > (...)
 
 > I expect that mathematicians have classified such fuzzy logics. Certainly they have been much used by physicists. But is there not something to be said for the approach of Euclid? Even now that we know that Euclidean geometry is (in some sense) not quite true? Is it not good to know what follows from what, even if it is not necessarily FAPP? Suppose for example that quantum mechanics were found to resist precise formulation. Suppose that when formulation beyond FAPP was attempted, we find an unmovable finger obstinately pointing outside the subject, to the mind of the observer, to the Hindu scriptures, to God, or even only Gravitation? Would that not be very, very interesting?
+
+> From "Against 'measurement'", Physics World (August 1990)
 
