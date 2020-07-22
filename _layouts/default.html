@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title> {{site.name}} - {{ page.title }}</title>
+      <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/style.css">
+
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif">
+    </head>
+
+    <body>
+      <div class="header">
+        <div class="container">
+          <h1>{{site.name}}</h1>
+          <h3>{{site.description}}</h3>
+        </div>
+      </div>
+      <div class="container">
+        <!--<h1>{{page.title}}</h1> -->
+        {{ content }}
+      </div>
+      <div class="footer">
+        <div class="container">
+          <h1>Contents</h1>
+          {% for chapter in site.chapters %}
+            <p><a href="{{chapter.url  | prepend:site.baseurl}}">{{chapter.title}}</a></p>
+          {% endfor %}
+
+          <h1>Download</h1>
+          <p><a href="{{site.baseurl}}{{site.baseurl}}.epub">as epub</a></p>
+          <p><a href="{{site.baseurl}}{{site.baseurl}}.txt">as txt</a></p>
+        </div>
+      </div>
+    </body>
+
+
+
