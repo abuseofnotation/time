@@ -1,7 +1,22 @@
 
+On society, and ideologies as a medium for forming concepts of truth
+---
+
 ...Our stance as humans, however *is not like this* as some of these images are clearly embedded into our minds.
 
 We, people, pay attention to, and live in arrangements that are representable by mental images. These arrangement together compose our world `M`. Because of that, it is normal that we often neglect the second type of arrangements, those that belong to `W`, those that cannot be represented.
+
+The society's spell
+- Computers
+- We create our own world.
+
+On not caring as means of regaining our sanity and on the lack of goal as a goal.
+===
+
+- Perception of time as a fractal 
+- The lack of ideology as ideology.
+- On mistakes
+- On problems
 
 
 God and self
@@ -13,23 +28,6 @@ The idea of the self is probably closer to a delusion than that of God, but it i
 
 The self is not who you are, but who you want to be (your projected goal).
 
-
-Mental images are self-enforced over time, this is why older people as a rule are more dogmatic than younger ones.
-
-It is not about older people having more knowledge (real knowledge will make you less dogmatic if anything), it's about having more dogmas 
-
-The society's spell
-- Computers
-- We create our own world.
-
-
-On the lack of goal as a goal.
-===
-
-- Perception of time as a fractal 
-- The lack of ideology as ideology.
-- On mistakes
-- On problems
 
 On the true nature of reality 
 ===

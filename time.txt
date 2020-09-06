@@ -119,7 +119,7 @@ On the different systems of knowledge depending on the goals that a given indivi
 ===
 
 
-Let me describe to you a natural phenomenon that I observed. It is a very weird one - at one moment it is green, but at the second it fades to black and then it becomes invisible. I suspect it can take some other colors too... It sometimes produces sounds too, but here is no way you can tell what it is going to do next. Such phenomena may very well exist (it might be completely random or it might be governed by some laws, that we just cannot perceive), but there is neither a way for us to know that it does exist, nor a reason for us to be interested in it. 
+Let me describe to you a natural phenomenon that I observed. It is a very weird one - at one moment it is green, but at the second it fades to black and then it becomes invisible. I suspect it can take some other colors too... It sometimes produces sounds too, but here is no way you can tell what it is going to do next. Such phenomena may very well exist (it might be completely random or it might be governed by some laws, that we just cannot perceive), but there is neither a way for us to know that it does exist, nor a reason for us to be interested in it. Because this phenomenon does not repeat itself in a way that we can perceive, it cannot be mapped by any mental images, and we can only perceive the world through mental images.
 
 ```
 0. A mental image (or dogma, as we called it earlier) is a set of many impressions united in order to be perceived as one. All objects and events that we perceive are actually just mental images.
@@ -256,13 +256,13 @@ True, we are able to model *some* aspects of the world *some* of the time, with 
 
 You can view God as a being that possesses what Kant calls "active intuition" i.e. who's thoughts are, by themselves, reality, as opposed to the thoughts of normal organisms that don't alter reality in any way. This is why God is, by definition only one and unique. This is why *she* is by definition immortal - not only because, as a supreme being, she would be capable of not dying, but because her death does not make sense unless the world itself dies with her. Simply put God's mental image (`M`) *is* the real world (`W`) and the `M` of each human being bears some resemblance to `W`, as far as we can view this person as created by God in Her image.
 
-In the many ways in which we are not God, we can say that `M` is not the same as `W`, although they are often observed as similar. `M` is deterministic, i.e. it is lawful and in a way that is always observable, while `W` is not. Mistaking `M` for `W` (or rather not recognizing that they are different) can lead us to the conclusion that `W` is deterministic too i.e. that everything that we perceive that is not lawful is some kind of illusion. The truth is the exact opposite - unpredictability is actually reality's defining characteristic, that differentiates it from dreams - when we are not observing anything unpredictable, this means that we are perceiving the world against a preestablished set of images i.e. *dogmatically*. And perceiving the world *empirically* is essentially the same as seeing its unpredictable side. This goes to show that `M` and `W` are not only slightly different (e.g. one is not contained in the other) - they don't overlap at all! And that is not because they are not at all similar, but simply because they follow two different, I'd say opposing, principles.
+In the many ways in which we are not God, we can say that `M` is not the same as `W`, although they are often observed as similar. `M` is deterministic, i.e. it is lawful and in a way that is always observable, while `W` is not. Mistaking `M` for `W` (or rather not recognizing that they are different) can lead us to the conclusion that `W` is deterministic too i.e. that everything that we perceive that is not lawful is some kind of illusion. The truth is the exact opposite - unpredictability is actually reality's defining characteristic, that differentiates it from dreams - when we are not observing anything unpredictable, this means that we are perceiving the world against a preestablished set of images i.e. *dogmatically*. And perceiving the world *empirically* is essentially the same as seeing its unpredictable side. This goes to show that `M` and `W` are not only slightly different (e.g. when one is contained in the other) - they don't overlap at all. And that is not because they are not at all similar, but simply because they follow two different, I'd say opposing, principles.
 
 ```
 2. The real world (let's call it `W`) is our source of empirical knowledge.
 ```
 
-(the development of physics is a perfect illustration of my thesis - although it was a discipline that had determinism as a given from its inception, physics is slowly moving from completely deterministic (classical physics) to probabilistic models (quantum mechanics).
+(the development of physics is a perfect illustration of this - although it was a discipline that had determinism as a given from its inception, physics is slowly moving from completely deterministic (classical physics) to probabilistic models (quantum mechanics).
 
 The principle that is behind `M` is, of course, the same principle that is behind all other mental images - *the principle of causality*. To discover what the principle of `W` is, let's start by examining the concept of a mental image again. If we think about it, we will realize that mental images are not so much descriptions of some particular substance or material but a description of a class of *arrangement* of the substance (and causality, describes how these arrangement change). However, given a set of arrangements of some atoms, molecules, or any other elements, there would be some arrangements that can be classified as instances of mental images and (and that follow the principle of causality) and some that cannot, where the second type of arrangements are only much more probable to exists (e.g. 99.9 per cent of the random arrangements of bricks are not buildings), but much *more probable to develop into* (given enough time an ordered arrangement of bricks will eventually crumble to an unordered one). This is just a paraphrase of the second law of thermodynamics, stating that the entropy of a given closed system increases over time. 
 
@@ -292,7 +292,7 @@ References
 On the ability to memorize and on the way our thinking becomes more and more dogmatic over time as a contributing factor of our notion of time. On the self-enforcement of deterministic subsystems, due to mental images and goals which are mistaken for the actual world.
 ===
 
-Practitioners of mnemonics have long realized that the easiest way to remember a bunch of unconnected pieces of information is to make up some connections between them. This is because our brain is very bad at capturing raw perception data and very good in capturing mental images and causal connections - we only remember events that are connected with one another.
+Practitioners of mnemonics have long realized that the easiest way to remember a bunch of unconnected pieces of information is to make up some connections between them. This is because our brain cannot capture raw perception data - it can only  capture mental images and causal connections - we only remember events that are connected with one another.
 
 ```
 0. Because we necessarily see them as connected, all events that we remember form a structure that is known as a causal chain.
@@ -300,26 +300,34 @@ Practitioners of mnemonics have long realized that the easiest way to remember a
 
 An event that has nothing to do with our causal chain is simply not perceived by us (or, it is perceived but not remembered even for a second). So in many ways, placing the event in the causal chain is perception itself.
 
-Furthermore events that are part of the causal chain can be compressed further, by imposing additional structure - e.g. if I just remember that I went to school yesterday, I don't have to remember going out of the house, locking the door, waiting for the bus etc. as all this is implicit (some computer compression algorithms are based on the same principle). 
+Furthermore, events that are part of the causal chain can be *compressed* further, by imposing additional structure - e.g. if I just remember that I went to school yesterday, I don't have to remember going out of the house, locking the door, waiting for the bus etc. as all this is implicit (some computer compression algorithms are based on the same principle). This compression process is repeated more and more times as our memories become older (e.g. in 10 years you wouldn't remember every day you spent at school, you'd just have some very abstract image of the time you spent there).
 
 ```
 1. Because of the way that memories work, mental images have the power to reinforce themselves with time - having the image of `A ⇒  B` in our head, we would see `A`-s and `B`-s all over the place. 
 ```
 
-The more time passes and the more compressed our memories are, the more "stylized" they become, replacing more and more perception data with mental images. This is why older people as a rule are more dogmatic than younger ones - it is not about older people having more knowledge (real knowledge will make you less dogmatic if anything), it's about having more dogmas.
-
-Aside from their degree of abstraction, mental images also have a degree of realness - in our everyday thinking, we often refer to all things that we talk about as either real or unreal (just like in logic we split statements to true and false) e.g. Stephen Hawking is real and Professor Charles Francis Xavier is not - an event is either in the chain or not. This line of thought, however is too naive. To see why, one just has to look at a more abstract concept, e.g. is true love real, and does it exist? It all depends on how you define it, and defining it in too robust terms is impossible, as the definition would rely on many other concepts. the "realness" of a concept is not just a matter of whether something exist or does not i.e. if you had or had not seen something that resembles it, but a matter of how much does the concept resonate with the concepts that constitute our worldview. Changing these concepts would then change our whole experience not only of the present, but also of the past.
+Aside from their degree of abstraction, mental images also have a degree of realness. In our everyday thinking, we often refer to all things that we talk about as either real or unreal (just like in logic we split statements to true and false) e.g. Stephen Hawking is real and Professor Charles Francis Xavier is not - an event is either in the chain or not. This line of thought, however is too naive. To see why, one just has to look at a more abstract concept, e.g. is true love real, and does it exist? It all depends on how you define it, and defining it in too robust terms is impossible, as the definition would rely on many other concepts. the "realness" of a concept is not just a matter of whether something exist or does not i.e. if you had or had not seen something that resembles it, but a matter of how much does the concept you assign to the perception resonates with the concepts that constitute our worldview. Changing these concepts would then change our whole experience not only of the present, but also of the past.
 
 ```
 2. The causality chain is modifiable and past events that we remember are mere projections of the mental images that we use at this instant, as unstable and as subjective to change as our future projections.
 ```
 
-However in practice we cannot do that, as our memories are always "stylized" to the mental images that we had used when we perceived them. Because of this, we cannot really use our memories to make any *new* mental images, but only to extrapolate on the images that we already have.
+However, because we remember images, and not raw perception data, we cannot modify our perception of past events, and the more distant an event is the more "stylized" it is i.e. connected with the mental images that we had used when we perceived it. Because of this, we cannot really use our memories to make any *new* mental images, but only to extrapolate on the images that we already have. This is why older people are always more dogmatic that younger ones - we accumulate more mental images with time and therefore perceive less, the only way to prevent that is to not have memories at all.
+
+```
+3. As it goes farther and farther from the "now", each moment the more compressed it becomes and more "stylized" (replacing more and more perception data with mental images). 
+```
+
+One of the biggest biases of our perception of time, that we already talked about, is our inability to differentiate between the mental images representing the world (`M`) and `W`, the world itself, resulting in us thinking that our perceptions represent a state of the affairs whereas they are merely a record of our mental images. Memories are probably the chief reason for this bias, as they can multiply it indefinitely: the moment we perceive a given "frame" the memory of it is super rich and full of detail and of empirical data, which can be further analyzed and interpreted. But as soon as we perceive the next frame, many aspects of the previous one are compressed, leaving only those that provide context for it (the next frame). Then when a third frame is perceived the two that we already have are packaged together again, leaving only the aspects that are useful for it's perception, only *there isn't a way to actually know which aspects would be really useful for providing a context in the future*. This process continues *ad infinitum*.
+
+We naively think of our memories as true representation of reality because they "work" i.e. have good success rate at predicting future events, but just because we are able to exploit a given model for our benefit does not mean that we understand it.
 
 References
 ---
 
 - Nassim Taleb often deals with the humans inability to see and account for uncertainty.
+
+- Marshal McLuhan talks a lot about the cultural aspect of our worldview in the book "Understanding media..."
 
 Appendix
 ===
@@ -328,9 +336,11 @@ Table of `M` and `W`
 ---
 
 |                   |   `M`  |   `W`     |
-| Defined by | Fragmented | Unified | 
+| Kantian equivalent | World as we perceive it | World as it is | 
+| Characteristic | Fragmented | Unified | 
 | Mode of perception | Dogmatic | Empirical | 
 | Defined by | Causality | Entropy | 
+| Time structure | Chain | Graph | 
 
 Note that `M` is unified in some sense, since `M` obeys common principles, while `W` does not obey any principles. But `W` is unified in a much deeper way -  the more chaotic and unstructured a given arrangement is, the more everything is connected to everything else, while our Mental world is fragmented in the sense that you can easily view a given part of it by itself.
 
