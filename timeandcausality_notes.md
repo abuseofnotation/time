@@ -10,7 +10,6 @@ Mediocre is an action which was created with a clear goal in mind.
 Great/stupid, is an action which was created with a lack of a goal.
 
 
-
 God and self
 ---
 
