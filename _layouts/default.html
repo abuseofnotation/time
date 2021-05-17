@@ -3,40 +3,105 @@
     <head>
       <title> {{site.name}} - {{ page.title }}</title>
       <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/style.css">
-
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif">
+      <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/custom-style.css">
     </head>
 
     <body>
       <div class="header">
         <div class="container">
-          <h1>{{site.name}}</h1>
+          <h1><a href="{{site.baseurl}}/">{{site.name}}</a></h1>
           <h3>{{site.description}}</h3>
         </div>
       </div>
       <div class="container">
         <!--<h1>{{page.title}}</h1> -->
-        {{ content }}
+        <!--
+        <a class="button" href="#contents">Contents</a>
+        <a class="button" href="#contact">Contact</a>
+        -->
+
+
         <div class="prev-next">
         {% if page.previous.url %}
-          <a class="prev" href="{{site.baseurl}}{{page.previous.url}}">&laquo;prev</a>
+          <a class="button" href="{{site.baseurl}}{{page.previous.url}}">
+            <span class="icon">&laquo;</span>
+            prev
+          </a>
         {% endif %}
         {% if page.next.url %}
-          <a class="next" href="{{site.baseurl}}{{page.next.url}}">next&raquo;</a>
+          <a class="button" href="{{site.baseurl}}{{page.next.url}}">
+            next
+            <span class="icon">&raquo;</span>
+          </a>
         {% endif %}
+        </div>
+        
+        {{ content }}
+
+        <div class="prev-next">
+        {% if page.previous.url %}
+          <a class="button" href="{{site.baseurl}}{{page.previous.url}}">
+            <span class="icon">&laquo;</span>
+            prev
+          </a>
+        {% endif %}
+        {% if page.next.url %}
+          <a class="button" href="{{site.baseurl}}{{page.next.url}}">
+            next
+            <span class="icon">&raquo;</span>
+          </a>
+        {% endif %}
+        </div>
       </div>
+      <div class="footer">
+        <div class="container" id="contents">
+            <h1>Contents</h1>
+            {% for chapter in site.chapters %}
+              <p><a href="{{chapter.url  | prepend:site.baseurl}}">{{chapter.title}}</a></p>
+            {% endfor %}
+        </div>
       </div>
       <div class="footer">
         <div class="container">
-          <h1>Contents</h1>
-          {% for chapter in site.chapters %}
-            <p><a href="{{chapter.url  | prepend:site.baseurl}}">{{chapter.title}}</a></p>
-          {% endfor %}
-          <h1>Download</h1>
-          <p><a href="{{site.baseurl}}{{site.baseurl}}.epub">as epub</a></p>
-          <p><a href="{{site.baseurl}}{{site.baseurl}}.txt">as txt</a></p>
+            <h1>Download</h1>
+            <p><a href="{{site.baseurl}}/book.epub">as epub</a></p>
+            <p><a href="{{site.baseurl}}/book.txt">as txt</a></p>
+          </div>
         </div>
       </div>
+
+
+      <div class="footer" style="background-color:#39bcedff">
+        <div class="container" id="contact">
+
+          <h1>Created by Boris Marinov</h1>
+          <p><a target="_blank" href="/">personal blog</a></p>
+          <p><a href="mailto:marinovboris@protonmail.com">email</a></p>
+          <p><a target="_blank" href="https://mastodon.social/@borko">mastodon</a></p>
+          <p><a target="_blank" href="https://twitter.com/AlexanderKatt/">twitter</a></p>
+          <p><a target="_blank" href="https://github.com/boris-marinov/category-theory-illustrated">Github</a></p>
+
+          <h1>Support this project</h1>
+          <p><a target="_blank" href="https://ko-fi.com/borismarinov">Ko-fi</a></p>
+
+
+      </div>
+
+
+      <div class="footer">
+        <div class="container">
+            <p>
+            <i>Made with 
+              <a  target="_blank" href="https://github.com/boris-marinov/jekyll-book-boilerplate">
+                Jekyll Book Boilerplate
+              </a>
+            </i>
+            </p>
+        </div>
+      </div>
+
+
+
     </body>
 
 
