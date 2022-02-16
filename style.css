@@ -71,14 +71,14 @@ a {
 }
 
 table {
-  border: 3px solid blue;
+  border: 3px solid black;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
   table-layout: fixed
 }
 table td, table th {
-  border: 1px solid blue;
+  border: 1px solid black;
   padding: 5px 4px;
 }
 table tbody td {
@@ -86,7 +86,7 @@ table tbody td {
 table thead {
   background: blue;
   color: white;
-  border-bottom: 3px solid blue;
+  border-bottom: 3px solid black;
 }
 table thead th {
   font-weight: bold;
@@ -94,7 +94,7 @@ table thead th {
 }
 table tfoot {
   font-weight: bold;
-  border-top: 3px solid blue;
+  border-top: 3px solid black;
 }
 
 img {
@@ -111,3 +111,11 @@ img {
   font-size: 26px;
 }
 
+@media print {
+  .header {
+    display: none;
+  }
+  .footer {
+    display: none;
+  }
+}
