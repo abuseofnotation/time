@@ -1,5 +1,5 @@
 ---
-title: Notes on time and causality
-author: Boris Marinov
+title: Notes on Time and Causality
+author: Jencel Panic
 language: en-US
 ...
