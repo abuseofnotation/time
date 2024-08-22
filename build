@@ -12,13 +12,4 @@ pandoc --from markdown --to docx  \
  _chapters/*.md \
   title.txt \
  --output book.docx \
- --toc \
- --epub-cover-image=cover_print.png \
 
-pandoc --from markdown --to pdf  \
- title.txt \
- _chapters/*.md \
-  title.txt \
- --output book.pdf \
- --toc \
- --epub-cover-image=cover_print.png \
