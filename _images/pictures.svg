@@ -28,7 +28,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="451.42857"
-     inkscape:cy="115.71428"
+     inkscape:cy="115.71429"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -77,42 +77,54 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="path1831"
-       style="fill:#666666;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 106.20278,186.41031 a 20.923791,20.782879 0 0 0 -1.04606,-0.0261 20.923791,20.782879 0 0 0 -20.923931,20.78302 20.923791,20.782879 0 0 0 20.923931,20.78255 20.923791,20.782879 0 0 0 20.92392,-20.78255 20.923791,20.782879 0 0 0 -0.003,-0.34665 h -19.8744 z" />
-    <ellipse
-       style="fill:#f2f2f2;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="path1831-8"
-       cx="42.73407"
-       cy="205.94528"
-       rx="20.923792"
-       ry="20.782877" />
-    <path
-       id="path1831-8-5"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 173.15912,185.7179 a 20.923792,20.782879 0 0 0 -1.04606,-0.0265 20.923792,20.782879 0 0 0 -20.92393,20.78302 20.923792,20.782879 0 0 0 20.92393,20.78302 20.923792,20.782879 0 0 0 1.04606,-0.0265 z" />
-    <path
-       id="path1831-8-5-3-0"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 106.01029,186.52168 a 20.923792,20.782879 0 0 0 -1.04606,-0.0265 20.923792,20.782879 0 0 0 -20.923915,20.78302 20.923792,20.782879 0 0 0 20.923915,20.78302 20.923792,20.782879 0 0 0 1.04606,-0.0265 z" />
-    <path
-       id="path1831-3"
-       style="fill:#666666;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 43.835232,185.97233 a 20.923791,20.782879 0 0 0 -1.04606,-0.0261 20.923791,20.782879 0 0 0 -20.92393,20.78302 20.923791,20.782879 0 0 0 20.92393,20.78255 20.923791,20.782879 0 0 0 20.92392,-20.78255 20.923791,20.782879 0 0 0 -0.003,-0.34665 h -19.8744 z" />
-    <path
-       id="path1831-8-5-3-0-0"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 43.642742,186.0837 a 20.923792,20.782879 0 0 0 -1.04606,-0.0265 20.923792,20.782879 0 0 0 -20.92391,20.78302 20.923792,20.782879 0 0 0 20.92391,20.78302 20.923792,20.782879 0 0 0 1.04606,-0.0265 z" />
+    <rect
+       style="fill:#000000;stroke:#808285;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect1"
+       width="184.58588"
+       height="128.46899"
+       x="12.871881"
+       y="17.150692" />
+    <g
+       id="g1"
+       transform="translate(0,8.9958338)">
+      <path
+         id="path1831"
+         style="fill:#666666;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 106.20278,186.41031 a 20.923791,20.782879 0 0 0 -1.04606,-0.0261 20.923791,20.782879 0 0 0 -20.923931,20.78302 20.923791,20.782879 0 0 0 20.923931,20.78255 20.923791,20.782879 0 0 0 20.92392,-20.78255 20.923791,20.782879 0 0 0 -0.003,-0.34665 h -19.8744 z" />
+      <ellipse
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="path1831-8"
+         cx="42.73407"
+         cy="205.94528"
+         rx="20.923792"
+         ry="20.782877" />
+      <path
+         id="path1831-8-5"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 173.15912,185.7179 a 20.923792,20.782879 0 0 0 -1.04606,-0.0265 20.923792,20.782879 0 0 0 -20.92393,20.78302 20.923792,20.782879 0 0 0 20.92393,20.78302 20.923792,20.782879 0 0 0 1.04606,-0.0265 z" />
+      <path
+         id="path1831-8-5-3-0"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 106.01029,186.52168 a 20.923792,20.782879 0 0 0 -1.04606,-0.0265 20.923792,20.782879 0 0 0 -20.923915,20.78302 20.923792,20.782879 0 0 0 20.923915,20.78302 20.923792,20.782879 0 0 0 1.04606,-0.0265 z" />
+      <path
+         id="path1831-3"
+         style="fill:#666666;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 43.835232,185.97233 a 20.923791,20.782879 0 0 0 -1.04606,-0.0261 20.923791,20.782879 0 0 0 -20.92393,20.78302 20.923791,20.782879 0 0 0 20.92393,20.78255 20.923791,20.782879 0 0 0 20.92392,-20.78255 20.923791,20.782879 0 0 0 -0.003,-0.34665 h -19.8744 z" />
+      <path
+         id="path1831-8-5-3-0-0"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#202020;stroke-width:1.83903;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 43.642742,186.0837 a 20.923792,20.782879 0 0 0 -1.04606,-0.0265 20.923792,20.782879 0 0 0 -20.92391,20.78302 20.923792,20.782879 0 0 0 20.92391,20.78302 20.923792,20.782879 0 0 0 1.04606,-0.0265 z" />
+    </g>
     <g
        id="g12-4"
-       transform="matrix(1.1591236,0,0,1.1591236,-11.240162,-74.662153)">
+       transform="matrix(1.1591236,0,0,1.1591236,-11.240162,-79.424656)"
+       style="fill:#ffffff;stroke:#ffffff">
       <path
          id="path1831-88"
-         style="fill:#898989;fill-opacity:1;stroke:#202020;stroke-width:1.58657;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.58657;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
          d="m 99.806012,121.73657 a 18.051389,17.929821 0 0 0 -0.90246,-0.0225 18.051389,17.929821 0 0 0 -18.051511,17.92994 18.051389,17.929821 0 0 0 18.051511,17.92954 18.051389,17.929821 0 0 0 18.051498,-17.92954 18.051389,17.929821 0 0 0 -0.003,-0.29906 H 99.805992 Z" />
       <ellipse
-         style="fill:#898989;fill-opacity:1;stroke:#202020;stroke-width:1.58657;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.58657;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
          id="path1831-8-8"
          cx="45.050236"
          cy="139.04631"
@@ -120,7 +132,7 @@
          ry="17.929819" />
       <path
          id="path1831-8-5-9"
-         style="fill:#898989;fill-opacity:1;stroke:#202020;stroke-width:1.58657;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.58657;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
          d="m 157.57063,121.13921 a 18.05139,17.929821 0 0 0 -0.90245,-0.0229 18.05139,17.929821 0 0 0 -18.05151,17.92995 18.05139,17.929821 0 0 0 18.05151,17.92994 18.05139,17.929821 0 0 0 0.90245,-0.0229 z" />
     </g>
   </g>
