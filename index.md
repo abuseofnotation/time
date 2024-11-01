@@ -19,8 +19,3 @@ This book is not just an intellectual exercise; it is a practical guide to livin
 
 [![cover.svg](cover_ebook.svg)](00)
 
-
-# [Buy](https://www.smashwords.com/books/view/1641587)
-# [Read Online](00)
-
-> To find out more about myself and my work, check [my blog](/).
