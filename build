@@ -9,6 +9,7 @@ pandoc --from markdown --to epub2 \
   title.txt \
  --output book.epub \
  --toc \
+ --resource-path=_chapters/\
  --epub-cover-image=cover_ebook.png \
 
 
@@ -16,5 +17,6 @@ pandoc --from markdown --to docx  \
  title.txt \
  _chapters/*.md \
   title.txt \
+ --resource-path=_chapters/\
  --output book.docx \
 
