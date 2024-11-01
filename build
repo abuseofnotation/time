@@ -1,10 +1,15 @@
-pandoc --from markdown --to epub3  \
+
+inkscape *.svg --export-type png
+inkscape _images/*.svg --export-type png
+inkscape _images/world/*.svg --export-type png
+
+pandoc --from markdown --to epub2 \
  title.txt \
  _chapters/*.md \
   title.txt \
  --output book.epub \
  --toc \
- --epub-cover-image=cover_print.png \
+ --epub-cover-image=cover_ebook.png \
 
 
 pandoc --from markdown --to docx  \
