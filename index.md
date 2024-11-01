@@ -17,5 +17,5 @@ In the Zen tradition, the mind is likened to a mirror, reflecting the world as i
 This book is not just an intellectual exercise; it is a practical guide to living more fully in the present moment. Through the insights of Zen Buddhism, cognitive science, and philosophy, Jencel Panic provides tools for breaking free from the mental constructs that bind us. By letting go of the need for order, we open ourselves to new possibilities, to a life that is richer, more vibrant, and more in tune with the true nature of existence.
 
 
-[![cover.svg](cover_ebook.svg)](00)
+[![cover](cover_ebook.png)](00)
 
